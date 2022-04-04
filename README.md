@@ -1,8 +1,8 @@
 ### Olá, eu sou Jackson Magalhães 👋
 
 - O que eu faço? - Atualmente estudo e pratico em projetos pessoais.
-- Qual o meu objetivo? - Atualmente Estudando React e Node.
-- O que eu estudo? - React, Node e Php
+- Qual o meu objetivo? - Alcançar um maior entendimento de linguagens e frameworks web e progredir.
+- O que eu estudo? - Atualmente Estudando React, Node e PHP.
 
 <div>
   <a href="https://github.com/Jackson-SM">
