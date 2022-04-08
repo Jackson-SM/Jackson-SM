@@ -1,7 +1,7 @@
 ### Olá, eu sou Jackson Magalhães 👋
 
 - O que eu faço? - Atualmente estudo e pratico em projetos pessoais.
-- Qual o meu objetivo? - Alcançar um maior entendimento de linguagens e frameworks web e progredir.
+- Qual o meu objetivo? - Alcançar um maior entendimento de linguagens e frameworks web, progredir e entrar no mercado da programação.
 - O que eu estudo? - Atualmente Estudando React, Node e PHP.
 
 <div>
