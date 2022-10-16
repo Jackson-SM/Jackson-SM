@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Jackson-SM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackson-SM&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact&theme=onedark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackson-SM&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact&theme=buefy" />
 </div>
 <div style="display: inline_block"><br>
   
@@ -40,5 +40,16 @@
    <img align="center" alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  ##
+  
+  ## Linters
+  
+  <img align="center" alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+  <img align="center" alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+  
+  ## Browsers
+  
+  <img align="center" alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
+  <img align="center" alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+  <img align="center" alt="Vivaldi" src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white">
+  
 </div>
