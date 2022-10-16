@@ -1,8 +1,8 @@
-### Olá, eu sou Jackson Magalhães 👋
+### Olá, Meu nome é Jackson Magalhães 👋
 
-- O que eu faço? - Atualmente estudo e pratico em projetos pessoais.
-- Qual o meu objetivo? - Alcançar um maior entendimento de linguagens e frameworks web, progredir e entrar no mercado da programação.
-- O que eu estudo? - Atualmente Estudando React, Node, Typescript e PHP.
+- O que eu faço? - Web developer e estudante da área da programação.
+- Qual o meu objetivo? - Compreender linguagens e frameworks em conjunto com a área da tecnologia, enquanto busco entrar no mercado.
+- O que eu estudo? - Atualmente sou FullStack com maior conhecimento em Node.JS e React.
 
 <div>
   <a href="https://github.com/Jackson-SM">
