@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Jackson-SM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackson-SM&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackson-SM&show_icons=true&theme=buefy&include_all_commits=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=demo&theme=buefy" />
 </div>
 <div style="display: inline_block"><br>
   
