@@ -4,10 +4,16 @@
 - Qual o meu objetivo? - Compreender linguagens e frameworks em conjunto com a área da tecnologia, enquanto busco entrar no mercado.
 - O que eu estudo? - Atualmente sou FullStack com maior conhecimento em Node.JS e React.
 
-<div>
+<div align="center">
+  <div>
+    <img src="https://media.tenor.com/DsbHvWBb6VgAAAAC/programming-client.gif" width="480"/>
+    <img src="https://media.tenor.com/lYJUdIQn1IEAAAAC/stackoverflow-programming.gif" width="480"/>
+  </div>
   <a href="https://github.com/Jackson-SM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackson-SM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <div align="start">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackson-SM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact&theme=dracula" />
+    </div>
 </div>
 <div style="display: inline_block"><br>
   
