@@ -6,7 +6,7 @@
 
 <div align="center">
   <div>
-    <img src="https://media.tenor.com/DsbHvWBb6VgAAAAC/programming-client.gif" width="480"/>
+    <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="480"/>
   </div>
   <a href="https://github.com/Jackson-SM">
   <div align="start">
