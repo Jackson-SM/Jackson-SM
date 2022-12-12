@@ -5,12 +5,9 @@
 - O que eu estudo? - Atualmente sou FullStack com maior conhecimento em Node.JS e React.
 
 <div align="center">
-  <div>
-    <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="480"/>
-  </div>
   <a href="https://github.com/Jackson-SM">
-  <div align="start">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackson-SM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <div align="center">
+    <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=windows-dark&border_radius=4&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact&theme=dracula" />
     </div>
 </div>
