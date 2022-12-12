@@ -4,15 +4,7 @@
 - Qual o meu objetivo? - Compreender linguagens e frameworks em conjunto com a área da tecnologia, enquanto busco entrar no mercado.
 - O que eu estudo? - Atualmente sou FullStack com maior conhecimento em Node.JS e React.
 
-<div align="center">
-  <a href="https://github.com/Jackson-SM">
-  <div align="center">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=windows-dark&border_radius=4&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact&theme=dracula" />
-    </div>
-</div>
 <div style="display: inline_block"><br>
-  
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br /><br />
   
   ## OS System:
@@ -54,4 +46,19 @@
   <img align="center" alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
   <img align="center" alt="Vivaldi" src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white">
   
+  ## Networks
+  
+  <a href="google.com" />
+  <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img align="center" alt="Hotmail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+</div>
+<br /><br />
+<div align="center">
+  <a href="https://github.com/Jackson-SM">
+  <div align="center">
+    <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=windows-dark&border_radius=4)](https://git.io/streak-stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact" />
+  </div>
 </div>
