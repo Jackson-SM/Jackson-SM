@@ -1,8 +1,10 @@
 ### Olá, Meu nome é Jackson Magalhães 👋
 
-- O que eu faço? - Web developer e estudante da área da programação.
-- Qual o meu objetivo? - Compreender linguagens e frameworks em conjunto com a área da tecnologia, enquanto busco entrar no mercado.
-- O que eu estudo? - Atualmente sou FullStack com maior conhecimento em Node.JS e React.
+- NodeJS
+- ReactJS
+- Nestjs
+- Javascript
+- Typescript
 
 <div style="display: inline_block"><br>
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br /><br />
