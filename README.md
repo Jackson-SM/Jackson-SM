@@ -6,6 +6,21 @@
 - Javascript
 - Typescript
 
+#### Meu nome é Jackson, sou apaixonado em TI e sou um Desenvolvedor Web Júnior em busca de oportunidades no mercado. Atualmente estudo tecnologias Back-end e Front-end, sendo elas Node.js e React.js. Além de estar aprendendo React Native e Vue.js.
+
+## Tecnologias sendo estudadas atualmente :books:
+> AWS
+##
+> Vue.js
+##
+> React Native
+##
+> Testes em Node
+##
+> Nestjs
+##
+> Docker
+
 <div style="display: inline_block"><br>
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br /><br />
   
