@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Jackson Magalhães 👋
 
-- NodeJS
+- Node.js
 - ReactJS
 - Nestjs
 - Javascript
@@ -9,15 +9,15 @@
 #### Meu nome é Jackson, sou apaixonado em TI e sou um Desenvolvedor Web Júnior em busca de oportunidades no mercado. Atualmente estudo tecnologias Back-end e Front-end, sendo elas Node.js e React.js. Além de estar aprendendo React Native e Vue.js.
 
 ## Tecnologias sendo estudadas atualmente :books:
-> AWS
-##
-> Vue.js
-##
-> React Native
-##
-> Testes em Node
+> NextJS
 ##
 > Nestjs
+##
+> SOLID
+##
+Clean Architecture
+##
+> Testes em Node
 ##
 > Docker
 
