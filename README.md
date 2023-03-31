@@ -6,8 +6,6 @@
 - Javascript
 - Typescript
 
-#### Meu nome é Jackson, sou apaixonado em TI e sou um Desenvolvedor Web Júnior em busca de oportunidades no mercado. Atualmente estudo tecnologias Back-end e Front-end, sendo elas Node.js e React.js. Além de estar aprendendo React Native e Vue.js.
-
 ## Tecnologias sendo estudadas atualmente :books:
 > NextJS
 ##
@@ -20,10 +18,16 @@
 > Testes em Node
 ##
 > Docker
+<br />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br /><br />
-  
+  <div align="center">
+    <a href="https://github.com/Jackson-SM">
+    <div align="center">
+      <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=windows-dark&border_radius=4)](https://git.io/streak-stats" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact" />
+    </div>
+  </div><br />
+
   ## OS System:
   
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -72,12 +76,4 @@
   <a href="https://www.linkedin.com/in/jackson-magalhaes/" />
   <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   
-</div>
-<br /><br />
-<div align="center">
-  <a href="https://github.com/Jackson-SM">
-  <div align="center">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=windows-dark&border_radius=4)](https://git.io/streak-stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact" />
-  </div>
 </div>
