@@ -15,7 +15,7 @@
 ##
 > SOLID
 ##
-Clean Architecture
+> Clean Architecture
 ##
 > Testes em Node
 ##
