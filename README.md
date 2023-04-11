@@ -21,11 +21,10 @@
 <br />
 
   <div align="center">
-    <a href="https://github.com/Jackson-SM">
     <div align="center">
-      <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=windows-dark&border_radius=4)](https://git.io/streak-stats" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact" />
-    </div>
+      <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=midnight-purple&border_radius=4)](https://git.io/streak-stats" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&hide_progress=true" />
+      </div>
   </div><br />
 
   ## OS System:
