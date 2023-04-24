@@ -23,7 +23,7 @@
   <div align="center">
     <div align="center">
       <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=midnight-purple&border_radius=4)](https://git.io/streak-stats" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&hide_progress=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&hide_progress=false" />
       </div>
   </div><br />
 
