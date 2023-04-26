@@ -10,7 +10,7 @@
       <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=midnight-purple&border_radius=4)](https://git.io/streak-stats" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact" />
       </div>
-  </div><br />
+  </div><br /><br />
   
   <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
@@ -89,7 +89,7 @@
     <img height="50px" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" />
   </a>
   
-  </div>
+  </div> <br />
 
   ## OS System:
   
