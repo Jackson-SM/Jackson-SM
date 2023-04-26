@@ -2,7 +2,9 @@
   <h1>Olá meu nome é Jackson Magalhães, sou apaixonado no ramo da Tecnologia, interessado em I.A e Cloud. Gosto de aprender mais sobre programação cada dia.</h1>
 </div>
 
-- Possuo conhecimentos em linguagens e frameworks como Javascript, Typescript, React, NodeJS, Nestjs e AdonisJS.
+- 🧠 Possuo conhecimentos em linguagens e frameworks como Javascript, Typescript, React, NodeJS, Nestjs e AdonisJS.
+- 🚀 Atuando como desenvolvedor Full-Stack na comunidade de desenvolvedores <a href="https://discord.gg/vacuum">Vacuum</a> com **Wordpress - Reactjs - Nodejs**.
+- ✉️ Email para contato: jacksonmagalhaessm@gmail.com
 <br />
 
   <div align="center">
@@ -107,8 +109,6 @@
   ## Networks
   
   <a href="https://wa.me/5521974245954" />
-  <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="mailto:jacksonsilvamagalhaes@hotmail.com" />
   <img align="center" alt="Hotmail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   <a href="https://www.linkedin.com/in/jackson-magalhaes/" />
   <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
