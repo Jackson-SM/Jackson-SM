@@ -1,23 +1,10 @@
 ### Olá, Meu nome é Jackson Magalhães 👋
 
-- Node.js
-- ReactJS
-- Nestjs
-- Javascript
-- Typescript
+> Olá meu nome é Jackson Magalhães, sou apaixonado no ramo da Tecnologia, interessado em I.A e Cloud. Gosto de estudar e praticar inglês no meu tempo livre.
 
-## Tecnologias sendo estudadas atualmente :books:
-> NextJS
-##
-> Nestjs
-##
-> SOLID
-##
-> Clean Architecture
-##
-> Testes em Node
-##
-> Docker
+- Possuo conhecimentos em linguagens e frameworks como Javascript, Typescript, React, NodeJS, Nestjs e AdonisJS.
+
+- Estou aprendendo atualmente novas linguagens como C# e Ruby.
 <br />
 
   <div align="center">
