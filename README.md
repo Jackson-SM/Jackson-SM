@@ -3,7 +3,7 @@
 </div>
 
 - 🧠 Possuo conhecimentos em linguagens e frameworks como Javascript, Typescript, React, NodeJS, Nestjs e AdonisJS.
-- 🚀 Atuando como desenvolvedor Full-Stack na comunidade de desenvolvedores <a href="https://discord.gg/vacuum">Vacuum</a> com **Wordpress - Reactjs - Nodejs**.
+- 🚀 Atuando como desenvolvedor Full-Stack na comunidade de desenvolvedores <a href="https://discord.gg/vacuum">Vacuum</a> com **Reactjs - Nodejs**.
 - ✉️ Email para contato: jacksonmagalhaessm@gmail.com
 <br />
 
