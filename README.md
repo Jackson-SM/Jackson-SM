@@ -8,17 +8,17 @@
 <br />
   
   - ### Languages
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,php,ruby,cpp" />
   </a>
   
   - ### Frameworks and Libs
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,emotion,adonis,nestjs,bootstrap,express,jquery,prisma,supabase,sequelize,jest" />
   </a>
   
   - ### Tools
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=docker,git,github,mongodb,mysql,postgres,netlify,vercel,vite,vscode" />
   </a>
   
