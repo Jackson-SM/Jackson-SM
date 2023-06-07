@@ -7,22 +7,22 @@
 - ✉️ Email para contato: jacksonmagalhaessm@gmail.com
 <br />
   
-  - ### Languages
+  - ### Linguagens
   <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,php,ruby,cpp" />
   </a>
   
-  - ### Frameworks and Libs
+  - ### Frameworks e Bibliotecas
   <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,emotion,adonis,nestjs,bootstrap,express,jquery,prisma,supabase,sequelize,jest" />
   </a>
   
-  - ### Tools
+  - ### Ferramentas
   <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=docker,git,github,mongodb,mysql,postgres,netlify,vercel,vite,vscode" />
   </a>
   
-  # Networks
+  # Contatos
   
   <a href="https://wa.me/5521974245954" />
   <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
