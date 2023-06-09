@@ -9,7 +9,7 @@
   
   - ### Linguagens
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,php,ruby,cpp,python" />
+    <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,php,ruby,cpp,python,rust" />
   </a>
   
   - ### Frameworks e Bibliotecas
