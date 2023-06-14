@@ -33,8 +33,8 @@
   # 📊 Github Status
   <div align="center">
     <div align="center">
-      <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=midnight-purple&border_radius=6)](https://git.io/streak-stats" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact&bg_color=0d1117&text_color=a602d4&title_color=a602d4" />
+      <img height="180em" src="https://streak-stats.demolab.com?user=Jackson-SM&theme=github-dark-blue&border_radius=6)](https://git.io/streak-stats" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact&bg_color=0d1117&text_color=47a6ff&title_color=47a6ff" />
       </div>
   </div><br /><br />
   
