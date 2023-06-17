@@ -44,8 +44,6 @@
    [![Twitter](https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VacuumORG)
    [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
    [![Github](https://custom-icon-badges.demolab.com/badge/-Github-181717?style=for-the-badge&logo=github)](https://github.com/VacuumORG)
-  
-   [![Discord Invite](https://invidget.switchblade.xyz/vacuum)](https://discord.gg/vacuum)
   </div>
   
 </div>
