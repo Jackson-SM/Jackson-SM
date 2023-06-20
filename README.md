@@ -3,6 +3,7 @@
 </div>
 
 - 🧠 Possuo conhecimentos em linguagens e frameworks como Javascript, Typescript, React, NodeJS, Nestjs e AdonisJS.
+- 📚 Atualmente estudando Java e Python.
 - 🚀 Atuando como desenvolvedor e Staff Lead na comunidade <a href="https://discord.gg/vacuum">Vacuum</a>.
 - ✉️ Email para contato: jacksonmagalhaessm@gmail.com
 <br />
