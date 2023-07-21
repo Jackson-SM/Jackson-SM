@@ -4,7 +4,6 @@
 
 - 🧠 Possuo conhecimentos em linguagens e frameworks como Javascript, Typescript, React, NodeJS, Nestjs e AdonisJS.
 - 📚 Atualmente estudando Java e Python.
-- 🚀 Atuando como desenvolvedor e Staff Lead na comunidade <a href="https://discord.gg/vacuum">Vacuum</a>.
 - ✉️ Email para contato: jacksonmagalhaessm@gmail.com
 <br />
   
@@ -38,13 +37,5 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackson-SM&layout=compact&bg_color=0d1117&text_color=47a6ff&title_color=47a6ff&langs_count=8" />
       </div>
   </div><br /><br />
-  
-  # 🏢 Vacuum
-  <div align="center">
-  
-   [![Twitter](https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VacuumORG)
-   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
-   [![Github](https://custom-icon-badges.demolab.com/badge/-Github-181717?style=for-the-badge&logo=github)](https://github.com/VacuumORG)
-  </div>
   
 </div>
