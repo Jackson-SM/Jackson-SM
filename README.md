@@ -3,7 +3,7 @@
 </div>
 
 - 🧠 Possuo conhecimentos em linguagens e frameworks como Javascript, Typescript, React, NodeJS, Nestjs e AdonisJS.
-- 📚 Atualmente estudando Java e Python.
+- 📚 Atualmente estudando C# e PHP.
 - ✉️ Email para contato: jacksonmagalhaessm@gmail.com
 <br />
   
