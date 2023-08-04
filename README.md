@@ -7,7 +7,7 @@
 - ✉️ Email para contato: jacksonmagalhaessm@gmail.com
 <br />
   
-  - ### Linguagens
+  - ### Tecnologias
   <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,php,ruby,cpp,cs,python,rust,java" />
   </a>
