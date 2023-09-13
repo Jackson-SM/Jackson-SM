@@ -12,7 +12,7 @@
   
   - ### Frameworks e Bibliotecas
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,redux,materialui,emotion,adonis,nestjs,bootstrap,express,jquery,prisma,supabase,sequelize,jest,laravel" />
+    <img height="45em" src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,redux,materialui,adonis,nestjs,bootstrap,express,prisma,supabase,sequelize,jest,laravel" />
   </a>
   
   - ### Ferramentas
