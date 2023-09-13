@@ -1,6 +1,6 @@
 > Meu nome é Jackson Magalhães, sou apaixonado no ramo da Tecnologia, interessado em I.A, Cloud e entusiasta em astronômia e filmes de Ficção científica.
 
-- 🧠 Possuo conhecimentos em linguagens e frameworks como Javascript, Typescript, React, NodeJS, Nestjs e AdonisJS.
+- 🧠 Possuo conhecimentos em linguagens e frameworks como Javascript, Typescript, C#, Python, React, NodeJS, Nestjs e AdonisJS.
 - 📚 Atualmente estudando C# e PHP.
 - ✉️ Email para contato: jacksonmagalhaessm@gmail.com
 <br />
