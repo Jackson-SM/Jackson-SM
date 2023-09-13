@@ -12,12 +12,12 @@
   
   - ### Frameworks e Bibliotecas
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,materialui,emotion,adonis,nestjs,bootstrap,express,jquery,prisma,supabase,sequelize,jest,laravel" />
+    <img height="45em" src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,redux,materialui,emotion,adonis,nestjs,bootstrap,express,jquery,prisma,supabase,sequelize,jest,laravel" />
   </a>
   
   - ### Ferramentas
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=docker,git,github,mongodb,mysql,postgres,bash,linux,postman,netlify,vercel,vite,vscode" />
+    <img height="45em" src="https://skillicons.dev/icons?i=docker,azure,git,github,mongodb,mysql,postgres,bash,linux,postman,netlify,vercel,vite,vscode" />
   </a>
   
   # 🌐 Contatos
