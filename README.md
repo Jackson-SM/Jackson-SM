@@ -1,26 +1,27 @@
-> Meu nome é Jackson Magalhães, sou apaixonado no ramo da Tecnologia, interessado em I.A, Cloud e entusiasta em astronômia e filmes de Ficção científica.
+> Hi! My name is Jackson Magalhães, and i love technology, AI, and Cloud computing as well.
 
-- 🧠 Possuo conhecimentos em linguagens e frameworks como Javascript, Typescript, C#, Python, React, NodeJS, Nestjs e AdonisJS.
-- 📚 Atualmente estudando C# e PHP.
-- ✉️ Email para contato: jacksonmagalhaessm@gmail.com
+- 🧠 i've knowledges in programming languages and frameworks such as Javascript, Typescript, C#, PHP, React and Nextjs.
+- 📚 i'm currently studying C# and PHP.
+- ❤️ i'm passionate in languages too. [English, German and Indonesian]
+- ✉️ Contact e-mail: jacksonmagalhaessm@gmail.com
 <br />
   
-  - ### Tecnologias
+  - ### Technologies
   <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,php,ruby,cpp,cs,python,rust,java" />
   </a>
   
-  - ### Frameworks e Bibliotecas
+  - ### Frameworks e Libs
   <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,redux,materialui,adonis,nestjs,bootstrap,express,prisma,supabase,sequelize,jest,laravel" />
   </a>
   
-  - ### Ferramentas
+  - ### Tools
   <a href="https://skillicons.dev">
     <img height="45em" src="https://skillicons.dev/icons?i=docker,azure,git,github,mongodb,mysql,postgres,bash,linux,postman,netlify,vercel,vite,vscode" />
   </a>
   
-  # 🌐 Contatos
+  # 🌐 Contacts
 
   <a href="https://www.linkedin.com/in/jackson-magalhaes/" />
   <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
