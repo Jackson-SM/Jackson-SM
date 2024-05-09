@@ -1,9 +1,8 @@
-> Hi! My name is Jackson Magalhães, and i love technology, AI, and Cloud computing as well.
+> Olá! Meu nome é Jackson Magalhães e eu amo Matemática e Inteligência Artificial.
 
-- 🧠 i've knowledges in programming languages and frameworks such as Javascript, Typescript, C#, PHP, React and Nextjs.
-- 📚 i'm currently studying C# and PHP.
-- ❤️ i'm passionate in languages too. [English, German and Indonesian]
-- ✉️ Contact e-mail: jacksonmagalhaessm@gmail.com
+- 🧠 Possuo conhecimentos em linguagens de programação e Frameworks como Javascript, Typescript, C#, PHP, React and Nextjs.
+- 📚 Atualmente estudando C# e Python.
+- ❤️ Sou apaixonado em idiomas, atualmente aprendendo Inglês e Alemão.
 <br />
   
   - ### Technologies
