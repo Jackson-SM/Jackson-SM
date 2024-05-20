@@ -7,12 +7,12 @@
   
   - ### Tecnologias
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,php,ruby,cpp,cs,python,rust,java" />
+    <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,python,java" />
   </a>
   
   - ### Frameworks e Bibliotecas
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,redux,materialui,adonis,nestjs,bootstrap,express,prisma,supabase,sequelize,jest,laravel" />
+    <img height="45em" src="https://skillicons.dev/icons?i=react,nextjs,styledcomponents,redux,materialui,adonis,nestjs,bootstrap,express,prisma,supabase,sequelize,jest" />
   </a>
   
   - ### Ferramentas
