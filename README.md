@@ -7,7 +7,7 @@
   
   - ### Tecnologias
   <a href="https://skillicons.dev">
-    <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,php,cs,python,java" />
+    <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,cs,python,java" />
   </a>
   
   - ### Frameworks e Bibliotecas
