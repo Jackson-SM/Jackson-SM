@@ -1,8 +1,7 @@
-> Olá! Meu nome é Jackson Magalhães e eu amo Matemática e Inteligência Artificial.
-
-- 🧠 Possuo conhecimentos em linguagens de programação e Frameworks como Javascript, Typescript, C#, PHP, React and Nextjs.
-- 📚 Atualmente estudando C# e Python.
-- ❤️ Sou apaixonado em idiomas, atualmente aprendendo Inglês e Alemão.
+# Olá! Meu nome é Jackson Magalhães.
+- 🚀 Desenvolvendo soluções eficientes em backend, com foco em escalabilidade e desempenho.
+- ❤️ Apaixonado por idiomas, atualmente focado em aprender Inglês e Alemão.
+- 📚 Estudando arquitetura de microserviços, além de me aprofundar em Golang, Python, machine learning e data science (usando TensorFlow).
 <br />
   
   - ### Tecnologias
