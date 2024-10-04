@@ -1,7 +1,7 @@
 # Olá! Meu nome é Jackson Magalhães.
 - 🚀 Desenvolvendo soluções eficientes em backend, com foco em escalabilidade e desempenho.
 - ❤️ Apaixonado por idiomas, atualmente focado em aprender Inglês e Alemão.
-- 📚 Estudando arquitetura de microserviços, além de me aprofundar em Golang, Python, machine learning e data science (usando TensorFlow).
+- 📚 Estudando arquitetura de microservices, além de me aprofundar em Golang, Python, machine learning e data science (usando TensorFlow).
 <br />
   
   - ### Tecnologias
